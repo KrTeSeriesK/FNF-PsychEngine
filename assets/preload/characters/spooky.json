@@ -96,9 +96,9 @@
 	"healthicon": "spooky",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
-		0
+		0,
+		255,
+		255
 	],
 	"camera_position": [
 		0,

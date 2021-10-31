@@ -24,6 +24,15 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
+		['Tails Mix Team'],
+		['Tails',				'tails',			'Ideas, The Man Himself',							'https://twitter.com/le_kitsune_667',			0xFFFF9300],
+		['Chao',				'chao',			'Ideas, Squirtle Man.',		'https://www.youtube.com/watch?v=kK81m-A3qpU',		0xFF53BFDF],
+		['Spinslash',				'sai',			'Art, "isnt actually that smart, tex is"',						'https://twitter.com/SpinSlash165',			0xFFC3C3C3],
+		['Allan',				'allan',			'Charting, Mod Management, Programming, "lmao"',		'https://www.youtube.com/channel/UC1B4-N-RILTYmXZ11WtJFSg',			0xFF8557A0],
+		['Michael',				'mickle',			'Music, "sdfasdklfgsdfgsgoinrfoenlvbd"',							'https://www.youtube.com/channel/UCJnVFnHBkOd9ShEjTCn_5IA',			0xFF0075CA],
+		['Ernest',				'ernest',			'Ideas, "i call everyone my dude"',							'https://twitter.com/ErnestKid_',			0xFFFE36B2],
+		['Tex',				'tex',			'Ideas, The most Huggable Crocodile ever.',							'https://twitter.com/CrocodileTex',			0xFF00E7FF],
+		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
